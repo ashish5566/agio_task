@@ -1,0 +1,6 @@
+module Pods_new_pro_new_proTests {
+  umbrella header "Pods-new_pro-new_proTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
